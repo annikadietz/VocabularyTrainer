@@ -1,0 +1,294 @@
+de aankomst - die Ankunft - 2 - 0
+in - in - 3 - 0
+Nederland - Niederlande - 3 - 0
+bekijken - ansehen - 2 - 0
+de foto - das Foto - 2 - 0
+en - und - 3 - 0
+luisteren - hoeren - 3 - 0
+de dialoog - der Dialog - 2 - 0
+waarover - worueber - 2 - 0
+praten - reden - 2 - 0
+de mens - der Mensch - 2 - 0
+welk - welche(/r, /s) - 4 - 0
+de zin - der Satz - 4 - 0
+horen bij - gehoeren zu - 2 - 0
+welkom - willkommen - 4 - 0
+nemen - nehmen - 2 - 0
+de koffer - der Koffer - 2 - 0
+hoor - Interjektion - 5 - 0
+komen - kommen - 0 - 1
+gaan - gehen - 2 - 0
+naar huis - nach  Hause - 3 - 0
+leuk - schoen, nett - 3 - 0
+te - zu - 3 - 0
+leren - lernen - 5 - 1
+kennen - kennen - 3 - 0
+Dag! - (Guten) Tag! - 1 - 0
+allemaal - alle, alles, allerseits - 4 - 0
+meelezen - mitlesen - 2 - 0
+daarna - darnach - 3 - 1
+hardop - laut - 2 - 0
+He! - He! - 3 - 0
+de lieverd - Liebling - 2 - 2
+Hallo! - Hallo! - 4 - 0
+fijn - toll - 4 - 1
+wat fijn - wie toll - 1 - 1
+weerzien - wiedersehen - 2 - 1
+Dank je wel. - Danke. (informell) - 9 - 1
+Hoi! - Hi! - 5 - 0
+zijn - sein - 2 - 0
+de vriendin - die Freundin - 3 - 0
+van - von - 2 - 0
+hier - hier - 3 - 0
+de vakantie - der Urlaub - 1 - 1
+heten - heissen - 4 - 0
+waar ... vandaan - woher - 2 - 0
+uit - aus - 2 - 0
+Zwitserland - Schweiz - 5 - 1
+wonen - wohnen - 2 - 0
+de buurt - die Naehe - 7 - 1
+pap - Papa - 3 - 0
+terug - zurueck - 2 - 0
+heel - sehr, ganz - 2 - 0
+moe - muede - 2 - 0
+ja - ja - 2 - 0
+Goedemiddag! - Guten Tag! - 5 - 1
+meneer - Herr (Anrede) - 4 - 0
+wie - wer - 2 - 0
+nog - noch - 2 - 0
+nog eens - noch einmal - 2 - 0
+de vraag - die Frage - 2 - 0
+het antwoord - die Antwort - 5 - 1
+elkaar, bij elkaar - einander, zueinander - 2 - 0
+waar - wo - 5 - 0
+hoe - wie - 2 - 0
+mevrouw - Frau (Anrede) - 1 - 0
+de cursus - der Kurs - 4 - 0
+lopen - laufen - 2 - 0
+rondlopen - herumlaufen - 8 - 1
+beter - besser - 2 - 0
+invullen - ausfuellen - 2 - 1
+juist - richtig - 5 - 1
+met - mit - 2 - 0
+de trein - der Zug - 2 - 0
+werken - arbeiten - 3 - 0
+daar - dort, da - 2 - 0
+bij - bei - 2 - 0
+de bank - die Bank - 2 - 0
+maar - aber - 4 - 0
+vaak - oft - 0 - 5
+Belgie - Belgien - 2 - 0
+hebben - haben - 6 - 0
+de vriend - der Freund - 2 - 0
+zitten - sitzen - 2 - 0
+tegenover - gegenueber - 3 - 0
+lang - lang, lange - 2 - 1
+dan - dann - 3 - 0
+altijd - immer - 4 - 2
+slapen - schlafen - 9 - 1
+spreken - sprechen - 6 - 1
+uitspreken - aussprechen - 5 - 1
+het werkwoord - das Verb - 2 - 0
+verdelen - verteilen - 0 - 1
+de spelling - die Rechtschreibung - 1 - 2
+open - offen - 3 - 0
+gesloten - geschlossen - 3 - 0
+nu - jetzt - 2 - 0
+de tabel - die Tabelle - 3 - 1
+de opdracht - die Aufgabe - 6 - 2
+volledig - vollstaending - 1 - 7
+onregelmatig - unregelmaessig - 0 - 3
+kunnen - koennen - 2 - 0
+even - mal, gerade, kurz - 1 - 1
+spellen - buchstabieren - 4 - 0
+het alfabet - das Alphabet - 4 - 0
+zeggen - sprechen, sagen - 4 - 2
+nazeggen - nachsprechen - 0 - 3
+de voornaam - der Vorname - 2 - 0
+de achternaam - der Nachname - 4 - 0
+de umlaut - der Umlaut - 3 - 1
+dubbel - doppelt - 3 - 1
+het streepje - Bindestrich - 2 - 3
+Nederlands - niederlaendisch - 2 - 0
+Vlaams - flaemisch - 0 - 5
+de familienaam - der Familienname - 5 - 1
+de naam - der Name - 3 - 0
+bedankt - danke - 2 - 0
+volgend - folgend - 3 - 1
+de afkorting - die Abkuerzung - 4 - 1
+wat - was - 1 - 0
+Eerste Hulp, de Eerste Hulp bij Ongelukken - Erste Hilfe, Erste Hilfe bei Ungluecken - 2 - 2
+het centraal station - der Hauptbahnhof - 2 - 1
+de universiteit - die Universitaet - 14 - 0
+mogen - duerfen - 2 - 0
+voorstellen - vorstellen - 3 - 2
+Goedemorgen! - Guten Morgen! - 5 - 1
+Goedenavond! - Guten Abend! - 4 - 3
+Doei! - Tschuess! - 6 - 1
+Tot ziens! - Auf Wiedersehen! - 3 - 0
+Welterusten! - Gute Nacht! - 1 - 3
+Slaap lekker! - Schlaf gut! - 2 - 0
+aanvullen - ergaenzen - 0 - 2
+de collega - der Kollege, die Kollegin - 2 - 0
+hartelijk - herzlich - 3 - 0
+onthouden - merken - 6 - 4
+alles - alles - 2 - 0
+op - auf - 2 - 0
+het rijtje - die Reihe - 3 - 2
+de Universiteit - die Universitaet - 0 - 0
+de lettergreep - die Silbe - 2 - 0
+Vlaanderen - Flandern - 5 - 1
+Dank u wel. - Danke. (formell) - 1 - 0
+lezen - lesen - 1 - 0
+doen - machen, tun - 0 - 0
+de les - der Unterricht, die Lektion - 0 - 0
+het plaatje - die Abbildung - 0 - 0
+schrijven - schreiben - 1 - 0
+antwoorden - antworten - 0 - 0
+vragen - fragen - 0 - 0
+de docent - der Dozent, der Kursleiter - 0 - 0
+proberen - probieren - 0 - 0
+zelf - selbst - 1 - 1
+Sorry. - Entschuldigung. - 0 - 0
+alstublieft - Bitte (formell) - 0 - 0
+alsjeblieft - Bitte (formell) - 0 - 0
+herhalen - wiederholen - 0 - 0
+misschien - vielleicht - 0 - 0
+langzaam - langsam - 0 - 0
+hard - laut - 0 - 0
+het bord - die Tafel - 0 - 0
+begrijpen - verstehen - 0 - 0
+uitleggen - erklaeren - 0 - 0
+heit Duits - das Deutsche - 0 - 0
+zien - sehen - 1 - 0
+het lokaal - der Raum, der Klassenraum - 0 - 0
+de cd/speler - der CD/Player - 0 - 0
+het etui - die Federmappe - 1 - 0
+de poster - das Poster - 0 - 0
+de cd - die CD - 0 - 0
+de pen - der Stift - 1 - 0
+de map - die Mappe - 1 - 0
+de tas - die Tasche - 0 - 0
+de stoel - der Stuhl - 0 - 0
+het krijtje - die Kreide - 0 - 0
+meer - mehr - 0 - 0
+het raam - das Fenster - 0 - 0
+de partner - der Partner - 0 - 0
+of - oder - 0 - 0
+als - als, wenn wie - 0 - 0
+de auto - das Auto - 0 - 0
+de begroeting - die Begruessung - 0 - 0
+nieuw - neu - 0 - 0
+meenemen - mitnehmen - 0 - 0
+ook - auch - 1 - 0
+ieder - jeder - 0 - 0
+de taxi - das Taxi - 0 - 0
+de firma - die Firma - 0 - 0
+de student - der Student - 0 - 0
+de baby - das Baby - 0 - 0
+die koe - die Kuh - 0 - 0
+de stad - die Stadt - 0 - 0
+de dag - der Tag - 0 - 0
+de boot - das Boot - 0 - 0
+de brief - der Brief - 0 - 0
+het huis - das Haus - 0 - 0
+de fotograaf - der Fotograf - 0 - 0
+de man - der Mann - 1 - 0
+de maan - der Mond - 0 - 0
+de kaas - der Kaese - 0 - 0
+de boom - der Baum - 1 - 0
+de bom - die Bombe - 0 - 0
+de dief - der Dieb - 0 - 0
+nee - nein - 0 - 0
+Beterschap! - Gute Besserung! - 0 - 1
+de kop, het kopje - die Tasse - 0 - 0
+de thee - der Tee - 1 - 0
+het glas, het glaasje - das Glas - 0 - 1
+het getal - die Zahl - 0 - 0
+nul - null - 0 - 0
+een - eins - 0 - 0
+twee - zwei - 1 - 0
+drie - drei - 0 - 0
+vier - vier - 0 - 0
+vijf - fuenf - 0 - 0
+zes - sechs - 0 - 1
+zeven - sieben - 0 - 0
+acht - acht - 0 - 0
+negen - neun - 0 - 0
+tien - zehn - 0 - 0
+elf - elf - 0 - 0
+twaalf - zwoelf - 1 - 0
+dertien - dreizehn - 0 - 0
+veertien - vierzehn - 0 - 0
+twintig - zwanzig - 0 - 0
+dertig - dreissig - 0 - 0
+veertig - vierzig - 0 - 0
+tachtig - achtzig - 0 - 0
+honderd - hundert - 0 - 0
+duizend - tausend - 0 - 0
+het miljoen - die Million - 1 - 1
+bedenken - ausdenken - 0 - 0
+het cijfer - die Ziffer - 0 - 1
+opschrijven - aufschreiben - 0 - 0
+voorlezen - vorlesen - 0 - 0
+vergelijken - vergleichen - 0 - 0
+het telefoonnummer - die Telefonnummer - 0 - 0
+de postcode, het postnummer - die Postleitzahl - 0 - 1
+het netnummer, het zonennummer - die Vorwahl - 0 - 0
+de vaste lijn - das Festnetz - 0 - 0
+mobiel - mobil - 1 - 0
+oud - alt - 0 - 0
+het jaar - das Jahr - 0 - 0
+slecht - schlecht - 1 - 0
+er is/zijn - es gibt - 0 - 0
+hoeveel - wie viel - 0 - 1
+de vrouw - die Frau - 1 - 0
+willen - wollen - 0 - 0
+volgen - besuchen, absolvieren - 0 - 0
+het geslacht - das Geschlecht - 0 - 0
+de straat - die Strasse - 1 - 0
+het huisnummer - die Hausnummer - 0 - 0
+de plaats - der Ort, die Stelle - 0 - 0
+tot en met - bis einschliesslich - 0 - 0
+de telefoon - das Telefon - 0 - 0
+prive - privat - 1 - 0
+het werk - die Arbeit - 0 - 0
+het bedrag - der Betrag - 0 - 0
+de datum - das Datum - 0 - 0
+wanneer - wann - 0 - 0
+iemand - jemand - 0 - 0
+tegen iemand - zu jemandem - 0 - 0
+opvallen - auffallen - 0 - 1
+de ouders - die Eltern - 0 - 0
+de leraar - der Lehrer - 0 - 1
+de onbekende - der Unbekannte - 0 - 1
+de generatie - die Generation - 0 - 0
+jong - jung - 0 - 0
+goed - gut, richtig - 1 - 0
+hartstikke - sehr - 0 - 0
+Het gaat wel. - Es geht so. - 0 - 1
+het beetje - bisschen, Das Bisschen - 0 - 0
+verkouden - erkaeltet - 0 - 1
+het woord - das Wort - 0 - 0
+niet - nicht - 1 - 0
+betekenen - bedeuten - 0 - 0
+ziek - krank - 0 - 0
+vervelend - unangenehm, aergerlich - 0 - 0
+toch - trotzdem - 0 - 0
+naar - nach, zu, in - 0 - 0
+zo - so - 0 - 0
+erg - schlimm - 0 - 0
+binnen - drinnen, innerhalb, herein - 1 - 0
+prima - prima - 0 - 0
+uitstekend - hervorragend - 0 - 0
+Het spijt me. - Es tut mir leid. - 0 - 1
+het boek - das Buch - 0 - 0
+liggen - liegen - 0 - 0
+thuis - zu Hause - 0 - 0
+best - gut - 0 - 1
+afhebben - fertig haben - 0 - 0
+wel - wohl, schon - 0 - 0
+het huiswerk - die Hausaufgaben - 0 - 0
+beginnen - beginnen - 0 - 0
+kijken - schauen - 0 - 0
+de pagina - die Seite - 0 - 0

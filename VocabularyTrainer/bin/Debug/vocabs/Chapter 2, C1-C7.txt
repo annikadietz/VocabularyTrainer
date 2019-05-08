@@ -1,0 +1,38 @@
+de kop, het kopje - die Tasse
+de thee - der Tee
+het glas, het glaasje - das Glas
+het getal - die Zahl
+nul - null
+een - eins
+twee - zwei
+drie - drei
+vier - vier
+vijf - fuenf
+zes - sechs
+zeven - sieben
+acht - acht
+negen - neun
+tien - zehn
+elf - elf
+twaalf - zwoelf
+dertien - dreizehn
+veertien - vierzehn
+twintig - zwanzig
+dertig - dreissig
+veertig - vierzig
+tachtig - achtzig
+honderd - hundert
+duizend - tausend
+het miljoen - die Million
+bedenken - ausdenken
+het cijfer - die Ziffer
+opschrijven - aufschreiben
+voorlezen - vorlesen
+vergelijken - vergleichen
+het telefoonnummer - die Telefonnummer
+de postcode, het postnummer - die Postleitzahl
+het netnummer, het zonennummer - die Vorwahl
+de vaste lijn - das Festnetz
+mobiel - mobil
+oud - alt
+het jaar - das Jahr
