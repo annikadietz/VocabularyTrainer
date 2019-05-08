@@ -121,7 +121,7 @@ namespace VocabularyTrainer
             currentAnswers.Clear();
             int randomIndex = rnd.Next(0, vocabList.Count - 1);
             Vocabulary vocab = vocabList.ElementAt(randomIndex);
-            while(vocab.correct >= getAverageCorrect() && vocab.wrong <= getAverrageWrong())
+            while((vocab.correct > getAverageCorrect() && vocab.wrong < getAverrageWrong()))
             {
                 randomIndex = rnd.Next(0, vocabList.Count - 1);
                 vocab = vocabList.ElementAt(randomIndex);

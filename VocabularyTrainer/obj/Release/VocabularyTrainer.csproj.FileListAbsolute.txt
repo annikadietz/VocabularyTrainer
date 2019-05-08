@@ -1,0 +1,10 @@
+D:\Nika\Documents\2019\Privat\Projects\VocabTrainer\VocabularyTrainer\bin\Release\VocabularyTrainer.exe.config
+D:\Nika\Documents\2019\Privat\Projects\VocabTrainer\VocabularyTrainer\bin\Release\VocabularyTrainer.exe
+D:\Nika\Documents\2019\Privat\Projects\VocabTrainer\VocabularyTrainer\bin\Release\VocabularyTrainer.pdb
+D:\Nika\Documents\2019\Privat\Projects\VocabTrainer\VocabularyTrainer\obj\Release\VocabularyTrainer.csprojAssemblyReference.cache
+D:\Nika\Documents\2019\Privat\Projects\VocabTrainer\VocabularyTrainer\obj\Release\VocabularyTrainer.Properties.Resources.resources
+D:\Nika\Documents\2019\Privat\Projects\VocabTrainer\VocabularyTrainer\obj\Release\VocabularyTrainer.VocabularyGUI.resources
+D:\Nika\Documents\2019\Privat\Projects\VocabTrainer\VocabularyTrainer\obj\Release\VocabularyTrainer.csproj.GenerateResource.cache
+D:\Nika\Documents\2019\Privat\Projects\VocabTrainer\VocabularyTrainer\obj\Release\VocabularyTrainer.csproj.CoreCompileInputs.cache
+D:\Nika\Documents\2019\Privat\Projects\VocabTrainer\VocabularyTrainer\obj\Release\VocabularyTrainer.exe
+D:\Nika\Documents\2019\Privat\Projects\VocabTrainer\VocabularyTrainer\obj\Release\VocabularyTrainer.pdb
